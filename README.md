@@ -23,6 +23,8 @@ Check out my [website](http://joanmarclla.com/).
 
 ## Table of Contents
 
+[![Join the chat at https://gitter.im/fireball787b/RedditDailyProgrammer](https://badges.gitter.im/fireball787b/RedditDailyProgrammer.svg)](https://gitter.im/fireball787b/RedditDailyProgrammer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [test](#platforms)
 - [test](#programming-languages)
 - [test](#front-end-development)
