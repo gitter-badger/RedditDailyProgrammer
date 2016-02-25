@@ -1,4 +1,4 @@
-package reddit_dailyprogrammer;
+package reddit_dailyprogrammer.easyChallenges;
 
 //https://www.reddit.com/r/dailyprogrammer/comments/45w6ad/20160216_challenge_254_easy_atbash_cipher/
 import java.util.ArrayList;

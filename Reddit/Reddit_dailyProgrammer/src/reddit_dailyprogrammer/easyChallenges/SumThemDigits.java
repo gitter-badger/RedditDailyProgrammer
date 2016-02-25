@@ -1,4 +1,4 @@
-package reddit_dailyprogrammer;
+package reddit_dailyprogrammer.easyChallenges;
 
 //https://www.reddit.com/r/dailyprogrammer/comments/1berjh/040113_challenge_122_easy_sum_them_digits/
 public class SumThemDigits {
